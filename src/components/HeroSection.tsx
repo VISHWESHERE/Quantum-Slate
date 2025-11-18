@@ -10,9 +10,9 @@ export function HeroSection() {
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-transparent via-gray-900/50 to-gray-900"></div>
 
       {/* Content */}
-      <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
-        <h1 className="text-7xl md:text-8xl lg:text-9xl mb-8 text-white font-bold">
-          Quantum Slate
+      <div className="relative z-10 text-center px-6 w-full mx-auto overflow-x-hidden">
+        <h1 className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl xl:text-[10rem] mb-8 text-white font-bold inline-block">
+          <span className="whitespace-nowrap">QuantumSlate</span>
         </h1>
         <p className="text-xl md:text-2xl text-gray-400 max-w-2xl mx-auto leading-relaxed">
           Pioneering the future of aerospace innovation through hands-on workshops and cutting-edge UAV solutions

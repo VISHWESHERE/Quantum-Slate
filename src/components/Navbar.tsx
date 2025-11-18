@@ -16,7 +16,7 @@ export function Navbar() {
           onClick={() => scrollToSection('hero')}
           className="text-2xl tracking-wider text-white font-bold hover:opacity-80 transition-opacity"
         >
-          QS
+          QuantumSlate
         </button>
 
         {/* Navigation Links */}

@@ -14,7 +14,7 @@ export function AboutSection() {
               About Us
             </h2>
             <p className="text-gray-300 leading-relaxed mb-4">
-              Quantum Slate is at the forefront of aerospace education and innovation. We specialize in delivering immersive offline workshops that transform theoretical knowledge into practical expertise.
+              QuantumSlate is at the forefront of aerospace education and innovation. We specialize in delivering immersive offline workshops that transform theoretical knowledge into practical expertise.
             </p>
             <p className="text-gray-300 leading-relaxed">
               Our mission is to empower the next generation of aerospace engineers and enthusiasts through hands-on learning experiences in drone technology, RC aviation, and rocketry.

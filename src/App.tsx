@@ -31,7 +31,7 @@ export default function App() {
       <footer className="border-t border-white/10 py-8">
         <div className="max-w-7xl mx-auto px-6 text-center">
           <p className="text-gray-400">
-            © 2024 Quantum Slate. All rights reserved.
+            © 2025 QuantumSlate. All rights reserved.
           </p>
           <p className="text-gray-500 mt-2">
             Pioneering aerospace innovation through education and technology

@@ -95,7 +95,7 @@ export function AdminPage() {
           <h1 className="text-4xl text-white font-bold">
             Admin Dashboard
           </h1>
-          <p className="text-gray-400 mt-2">Quantum Slate - Contact Form Submissions</p>
+          <p className="text-gray-400 mt-2">QuantumSlate - Contact Form Submissions</p>
         </div>
       </div>
 
