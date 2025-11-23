@@ -53,11 +53,11 @@ export function WorkshopsSection() {
                   <div className="mb-6 p-4 rounded-2xl bg-white/5 backdrop-blur-xl w-fit">
                     <Icon className="w-8 h-8 text-cyan-400" />
                   </div>
-                  
+
                   <h3 className="text-3xl mb-4 text-white font-bold">
                     {workshop.title}
                   </h3>
-                  
+
                   <p className="text-gray-300 flex-grow">
                     {workshop.description}
                   </p>

@@ -81,7 +81,7 @@ export function ContactSection() {
           {/* Contact Form */}
           <div className="backdrop-blur-xl bg-white/5 border border-white/10 rounded-3xl p-8">
             <h3 className="text-2xl mb-6 text-white font-bold">Send us a message</h3>
-            
+
             <form onSubmit={handleSubmit} className="space-y-6">
               <div>
                 <label htmlFor="name" className="block text-gray-300 mb-2">
@@ -184,7 +184,7 @@ export function ContactSection() {
           <div className="flex flex-col justify-center space-y-8">
             <div className="backdrop-blur-xl bg-white/5 border border-white/10 rounded-3xl p-8">
               <h3 className="text-2xl mb-6 text-white font-bold">Contact Information</h3>
-              
+
               <div className="space-y-6">
                 <div className="flex items-start gap-4">
                   <div className="p-3 rounded-xl bg-gradient-to-br from-cyan-500/20 to-purple-500/20">
